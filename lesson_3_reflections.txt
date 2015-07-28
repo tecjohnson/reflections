@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you are working from another computer.  I did some coding while on vacation and had to use thumb drives to make sure the files on my
+home computer were up to date.  I could use this to make sure things were up to date.
