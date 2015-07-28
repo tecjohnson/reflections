@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 If you are working from another computer.  I did some coding while on vacation and had to use thumb drives to make sure the files on my
 home computer were up to date.  I could use this to make sure things were up to date.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I guess because you don't want things that are not ready to go up on the github without meaning to.  Also I like having control
+of what is going on as opposed to automatic  processes.  Computers make too many mistakes. 
