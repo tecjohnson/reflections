@@ -7,3 +7,5 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I guess because you don't want things that are not ready to go up on the github without meaning to.  Also I like having control
 of what is going on as opposed to automatic  processes.  Computers make too many mistakes. 
+
+Clones are when you copy a repository from one system to another.  A fork is when you copy a repository on the same system (Github to github) and branch is when you create a copy to make changes to possible merge back later.
