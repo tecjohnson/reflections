@@ -9,3 +9,6 @@ I guess because you don't want things that are not ready to go up on the github 
 of what is going on as opposed to automatic  processes.  Computers make too many mistakes. 
 
 Clones are when you copy a repository from one system to another.  A fork is when you copy a repository on the same system (Github to github) and branch is when you create a copy to make changes to possible merge back later.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+So that if you are working without a connection, you still have what was done as of the last time you were able to log on.
