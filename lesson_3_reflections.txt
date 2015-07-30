@@ -16,3 +16,8 @@ So that if you are working without a connection, you still have what was done as
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 You could just email each other different files or put it up on the cloud.  I would be a lot harder to track and if something 
 does get messed up it would be a lot harder to go back and undo all the changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You should make changes in a seperate branch when you are trying something new or you are not sure will work.  Then you will not affect the main branch.
+if things work out then you can merge the two later.  also it allows many people to work on this open source code while keeping the main branch "Pure"
